@@ -122,7 +122,8 @@ h1 {
 }
 
 .card.show {
-  color: #fff;
+  background-color: #fff;
+  color: black;
 }
 
 button {
